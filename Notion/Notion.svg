@@ -51,35 +51,5 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       id="rect10"
-       width="62.933033"
-       height="41.577389"
-       x="6.9925604"
-       y="12.383926"
-       style="stroke-width:0.26458332" />
-    <rect
-       id="rect20"
-       width="52.72768"
-       height="40.82143"
-       x="85.61161"
-       y="53.961308"
-       style="stroke-width:0.26458332" />
-    <ellipse
-       id="path22"
-       cx="127.28349"
-       cy="27.975447"
-       rx="22.39509"
-       ry="11.43378"
-       style="stroke-width:0.26458332" />
-    <rect
-       id="rect24"
-       width="45.168156"
-       height="46.113091"
-       x="22.111607"
-       y="66.623512"
-       style="stroke-width:0.26458332"
-       ry="8.8824396" />
-  </g>
+     id="layer1" />
 </svg>
